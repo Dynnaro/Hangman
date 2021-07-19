@@ -33,22 +33,22 @@ comp=1;
 
 function image_change(){
     if (comp==1){
-    document.getElementById("hangman").src="image/Hang/1.png"
+    document.getElementById("hangman").src="Hang/1.png"
 	} 
 	if (comp==2){
-    document.getElementById("hangman").src="image/Hang/2.png"
+    document.getElementById("hangman").src="Hang/2.png"
 	}
 	if (comp==3){
-    document.getElementById("hangman").src="image/Hang/3.png"
+    document.getElementById("hangman").src="Hang/3.png"
 	}
 	if (comp==4){
-    document.getElementById("hangman").src="image/Hang/4.png"
+    document.getElementById("hangman").src="Hang/4.png"
 	}
 	if (comp==5){
-    document.getElementById("hangman").src="image/Hang/5.png"
+    document.getElementById("hangman").src="Hang/5.png"
 	}
 	if (comp==6){
-    document.getElementById("hangman").src="image/Hang/6.png"
+    document.getElementById("hangman").src="Hang/6.png"
 	}
 }
 wg = new Array();
